@@ -1,0 +1,8 @@
+Entry: MAIN.bundle
+AsetBundles:
+  a.ab:
+  - Assets/Resources/a
+  - Assets/Resources/a 1
+  b.ab:
+  - Assets/Resources/b
+  - Assets/Resources/b 1
